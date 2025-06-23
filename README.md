@@ -24,9 +24,3 @@ TheFoodCourt is a clean, user-friendly food ordering website designed to showcas
 - **JavaScript**
 
 ---
-
-## 📂 Project Setup
-
-1. Clone the repository:
-   ```bash
-   git clone h
