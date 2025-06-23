@@ -5,12 +5,6 @@ TheFoodCourt is a clean, user-friendly food ordering website designed to showcas
 
 ---
 
-## 📸 Preview
-
-![TheFoodCourt Screenshot](./path-to-your-screenshot.png)
-
----
-
 ## ✨ Features
 
 - 📖 **Organized Menu Categories:** Biryani, Chicken, Paneer, Chinese, South Indian, and more.
